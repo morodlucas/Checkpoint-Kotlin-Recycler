@@ -11,6 +11,8 @@ Na pasta "Prints" está o exemplar rodando no emulador de android.
 O problema que enfrentamos foi o de conseguir fazer com que os items Nome e Descrição ficassem um ao lado do outro, sem conflito.
 Sempre que adicionados, um sobrepõe o outro. A solução que encontramos foi inserir um item com os atributos "____________",
 para que haja espaço para que os outros items não se sobreponham.
+Depois descobrimos que esse problema se refere à resolução da tela do dispositivo, tentamos em outro android
+depois e o problema havia sumido.
 
 Grupo:
 Nome: Eduardo de Souza Oliveira 
