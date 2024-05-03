@@ -1,6 +1,7 @@
 Mundanças feitas: adicionamos, além do nome do produto, um espaço para sua
 descrição, que possui uma fonte menor que o nome e sem o
-atributo negrito. Também mudamos o visual do botão de "adicionar".
+atributo negrito. Esse espaço de descrição também possui as melhorias feitas para o campo de nome do produto. 
+Também mudamos o visual do botão de "adicionar".
 
 Outro aprimoramento feito, em algumas instâncias também trocamos o
 comando '‎android:layout_width="wrap_content"', por '‎android:layout_width="0dp"', por questões
